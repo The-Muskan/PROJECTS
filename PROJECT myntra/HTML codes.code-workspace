@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "HTML codes",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML codes",
+		"liveServer.settings.port": 5501
+	}
+}
